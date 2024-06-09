@@ -21,7 +21,7 @@ pydot
 
 You can install these dependencies using pip:
 'pip install streamlit pandas scikit-learn pgmpy networkx pydot'
-
+  Medium Link: https://medium.com/@sivasanjana29/bayesian-network-f92571110104
 How to Run
 Save the code in a Python file, e.g., covid_bayesian_network.py.
 Open a terminal and navigate to the directory containing the file.
