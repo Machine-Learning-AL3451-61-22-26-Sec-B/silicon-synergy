@@ -31,3 +31,6 @@ Run the Streamlit app using the following command:
 'streamlit run naive_bayes_streamlit.py'
 
 A new tab will open in your default web browser displaying the Streamlit app.
+
+
+Medium Link:https://medium.com/@sivasanjana29/naive-bayesian-classifier-29869defd702
