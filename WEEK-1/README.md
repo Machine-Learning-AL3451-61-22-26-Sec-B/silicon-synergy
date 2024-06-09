@@ -12,4 +12,6 @@ Install Dependencies: ''' pip install -r requirements.txt ''' Run the App: ''' s
 
 Open the provided URL in your web browser. Follow the instructions on the web interface to upload a CSV file and run the algorithm. About the Candidate Elimination Algorithm The Candidate Elimination algorithm is a concept learning algorithm used for learning from examples. It generates both specific and general hypotheses by iteratively updating them based on the training examples. The final hypotheses represent the boundaries of the concept being learned.
 
-References For more information about the Candidate Elimination algorithm, refer to machine learning textbooks or online resources discussing concept learning algorithms.
+References For more information about the Candidate Elimination algorithm, refer to machine learning textbooks or online resources discussing concept learning algorithms
+
+Medium Link: https://medium.com/@sreeleka647/candidate-elimination-algorithm-be5b92ff8df3
