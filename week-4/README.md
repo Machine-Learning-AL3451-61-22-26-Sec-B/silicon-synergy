@@ -78,3 +78,5 @@ Implementation Details
 The Naive Bayesian classifier is implemented using the Gaussian Naive Bayes algorithm. The classifier is trained using the provided training dataset, and its performance is evaluated on several test datasets.
 
 
+Medium Link: https://medium.com/@sreeleka647/naive-bayesian-classifier-89d55baf0182
+
