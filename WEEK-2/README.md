@@ -1,3 +1,4 @@
+
 ID3 Algorithm
 This repository contains an implementation of the ID3 (Iterative Dichotomiser 3) algorithm, a decision tree learning algorithm. Decision trees are widely used in machine learning for classification and regression tasks.
 
@@ -35,3 +36,6 @@ This will launch the Streamlit application in your default web browser, where yo
 
 Customization
 If you wish to customize or extend the implementation, you can modify the Python scripts in the repository. The id3.py file contains the core logic for building the decision tree using the ID3 algorithm. You can explore and modify this file to suit your needs.
+
+
+Medium Link: https://medium.com/@sreeleka647/introduction-1aaa2b862c2b
